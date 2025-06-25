@@ -10,9 +10,9 @@ This project uses object-oriented programming to structure the game logic across
 
 | Paddle       | Keys        |
 |--------------|-------------|
-| Right Paddle | ⬆️/⬇️      |
-| Left Paddle  | W / S       |
-| Quit Game    | Press `C`   |
+| Right Paddle | ⬆️ / ⬇️    |
+| Left Paddle  | w / s       |
+| Quit Game    | Press `c`   |
 
 ---
 
